@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&pause=1000&color=D90D5A&width=450&size=35&lines=Hey+There%2C+I+am+Vaaman+!!!)](https://git.io/typing-svg)
+
 
 <!--
 **VaamanChopra/VaamanChopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

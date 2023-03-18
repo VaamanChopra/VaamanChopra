@@ -4,10 +4,10 @@
 <div align="center">
  <picture>
   <!-- dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=VaamanChopra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D90D5A&sideNums=D90D5A&currStreakLabel=e582d8&fire=FF9554&dates=D90D5A&background=0d1117&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=VaamanChopra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=03AC13&sideNums=03AC13&currStreakLabel=B65FCF&fire=FF9554&dates=ED820E&background=0d1117&hide_border=true">
   <!-- light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=VaamanChopra&theme=cobalt&border=7536B2&stroke=7C14DE&ring=EA5900&currStreakNum=D90D5A&sideNums=7F00D0&currStreakLabel=e582d8&fire=FF9554&dates=D90D5A&hide_border=true">
-  <img alt="" src="https://streak-stats.demolab.com/?user=VaamanChopra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=D90D5A&sideNums=D90D5A&currStreakLabel=e582d8&fire=FF9554&dates=D90D5A&background=0d1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=VaamanChopra&theme=cobalt&border=7536B2&stroke=7C14DE&ring=EA5900&currStreakNum=03AC13&sideNums=03AC13&currStreakLabel=B65FCF&fire=FF9554&dates=ED820E&hide_border=true">
+  <img alt="" src="https://streak-stats.demolab.com/?user=VaamanChopra&theme=cobalt&border=7536B2&stroke=9243DD&ring=89502D&currStreakNum=03AC13&sideNums=03AC13&currStreakLabel=B65FCF&fire=FF9554&dates=ED820E&background=0d1117&hide_border=true">
 </picture>
 </div>
 

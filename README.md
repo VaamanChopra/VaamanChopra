@@ -11,7 +11,12 @@
 </picture>
 </div>
 
-
+<!--Connect With Me: -->
+[![Connect](https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&multiline=true&pause=2000&color=526AF7&width=435&lines=Connect+with+me-)](https://git.io/typing-svg)
+ 
+| **Linkedin**  |  **Gmail**    | **Twitter** | **Github** |
+|---|---|---|---|
+|<p align="center" ><a href="https://www.linkedin.com/in/vaamanchopra/" title="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40px" height="40px"></a></p>|<p align="center" ><a href="mailto:vaamanchopra@gmail.com" title="Gmail"><img src="https://d1rs1tqcxzgl1z.cloudfront.net/iconduck/image/upload/w_614,h_614,c_fit/f_png/e_colorize:0,co_rgb:000000/w_644,h_644,c_lpad/e_trim:1/w_512,h_512,c_fit/s3.prod/assets.00/asst44ju1ypb" alt="Gmail" width="40px" height="40px"></a> </p> |<p align="center" ><a href="https://twitter.com/VaamanChopra" title="Twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40px" height="40px"></a> </p>|<p align="center" ><a href="https://github.com/VaamanChopra" title="Github"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="40px" height="40px"></a> </p>|
 <!--
 **VaamanChopra/VaamanChopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

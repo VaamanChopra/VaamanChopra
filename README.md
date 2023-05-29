@@ -11,6 +11,19 @@
 </picture>
 </div>
 
+---
+
+<!-- Languages and tools: -->
+[![Languages and tools](https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&multiline=true&pause=2000&color=526AF7&width=435&lines=Languages+and+Tools-)](https://git.io/typing-svg)
+
+<p align="center">
+  <div>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,scss,tailwindcss,bootstrap,materialui,git,github,python,vscode,firebase,netlify,heroku,vercel,jquery,markdown" /> 
+  </div>
+</p>
+
+---
+
 <!--Connect With Me: -->
 [![Connect](https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&multiline=true&pause=2000&color=526AF7&width=435&lines=Connect+with+me-)](https://git.io/typing-svg)
  
